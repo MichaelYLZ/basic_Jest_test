@@ -8,14 +8,14 @@
 
 下载安装后只需：
 
--cd 文件夹
--npm i
--npm test
+- cd 文件夹
+- npm i
+- npm test
 
 ## 涉及到这些
 
-1.react 相关
-1.webpack 4
-1.jest 相关
-1.babel 7 相关
-1.ES6语法写webpack 配置文件
+1. react 相关
+1. webpack 4
+1. jest 相关
+1. babel 7 相关
+1. ES6语法写webpack 配置文件
